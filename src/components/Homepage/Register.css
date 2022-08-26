@@ -1,0 +1,30 @@
+.product-card {
+  height: 317px;
+  margin: 20px;
+  background-color: #ececff;
+  border-radius: 40px;
+  margin-bottom: 10rem;
+  background-image: url("./bg.svg");
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.register-title {
+  padding-top: 50px;
+  font-size: 3.4375rem;
+  font-weight: 600;
+  text-align: center;
+}
+.register-btn {
+  padding: 1.3rem;
+  /* width: 30%; */
+  /* height: 75px; */
+  margin-top: 30px;
+  background: #000000;
+  border-radius: 10px;
+  color: white;
+  font-weight: 500;
+  font-size: 30px;
+}
